@@ -17,6 +17,8 @@ const handleSubmit = async(e) =>{
     const form = new FormData()
     form.append('prompt', promt)
 
+    console.log(import.meta.env.VITE_API_KEY)
+
     const data = await fetch(`https://clipdrop-api.co/text-to-image/v1`,{
      method:"POST",
     headers: {
