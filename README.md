@@ -1,4 +1,7 @@
-### 🙏🙏"Please avoid excessive use of the app, as I have a limited number of API requests available. Your cooperation is greatly appreciated!" 🙏🙏
+
+#### 🙏🙏 Please avoid excessive use of the app, as I have a limited number of API requests available. Your cooperation is greatly appreciated! 🙏🙏
+
+
 
 # Image of your imagination!
 
